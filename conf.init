@@ -1,0 +1,18 @@
+[init]
+defectnum_cam0 = 6
+defectnum_cam1 = 0
+pipenum_total = 0
+defectnum_total = 0
+cam0_queue = 0
+cam1_queue = 1
+count = 0
+cam0_x = 25
+cam1_x = -25
+cam0_y = 25
+cam1_y = 75
+cam0_size = 600
+cam1_size = 600
+cam_delay = 0.56
+switchon_delay = 0.2
+switchoff_delay = 0.35
+
