@@ -10,7 +10,7 @@ if __name__=='__main__':
     ui.setupUi(mainWindow)
     mainWindow.show()
     sys.exit(app.exec_())
-     #Setting.setting_init()
+    Setting.setting_init()
      
 
 
